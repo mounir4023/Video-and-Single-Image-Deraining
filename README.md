@@ -109,7 +109,7 @@
     
 **We note that*:
 
-*i. **RainTrainL/Rain100L** and **RainTrainH/Rain100H** are synthesized by [Yang Wenhan](https://github.com/flyywh). **Rain12600/Rain1400** is from [Fu Xueyang](https://xueyangfu.github.io/) and **Rain12** is from [Li Yu](http://yu-li.github.io/).
+*i. **RainTrainL/Rain100L** and **RainTrainH/Rain100H** are synthesized by [Yang Wenhan](https://github.com/flyywh). **Rain12600/Rain1400** is from [Fu Xueyang](https://xueyangfu.github.io/) and **Rain12** is from [Li Yu](http://yu-li.github.io/).*
 
 *ii. In video experiment, the rain-removed results of [the deep learning method]((http://39.96.165.147/Pub%20Files/2018/ywh_cvpr18.pdf)) are provided by the author [Yang Wenhan](https://github.com/flyywh). Really thanks!*
 
