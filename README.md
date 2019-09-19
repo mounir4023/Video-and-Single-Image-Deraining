@@ -1,5 +1,5 @@
 # A Survey on Rain Removal from Video and Single Image
-[Hong Wang](https://hongwang01.github.io), Minghan Li, Yichen Wu, Qian Zhao, and [Deyu Meng](http://gr.xjtu.edu.cn/web/dymeng) [[arxiv]]()
+[Hong Wang](https://hongwang01.github.io), Minghan Li, Yichen Wu, Qian Zhao, and [Deyu Meng](http://gr.xjtu.edu.cn/web/dymeng) [[arxiv]](https://arxiv.org/abs/1909.08326)
 
 ## Physical Properties of Raindrops
 * Gemometric Property 
